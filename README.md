@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaneSkubic
 - 👀 I’m interested in Website/Mobile dev
-- 🌱 I’m currently learning the web at zeroday.dev
+- 🌱 I’m currently learning the web at [zerodays.dev](https://zerodays.dev.com)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: vane.skubic@gmail.com
 
