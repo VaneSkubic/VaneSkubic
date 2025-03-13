@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaneSkubic
 - 👀 I’m interested in Website/Mobile dev
-- 🌱 I’m currently learning NextJS, UI/UX & design
+- 🌱 I’m currently learning the web at zeroday.dev
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: vane.skubic@gmail.com
 
